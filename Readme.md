@@ -1,5 +1,7 @@
 Unity 3D game using unity and standard assets
-![alt text]https://github.com/andremachado35/unity_3d_game_tresurehunt/blob/master/Imagens/1.PNG
+
+
+![Alt text](https://github.com/andremachado35/unity_3d_game_tresurehunt/blob/master/Imagens/1.PNG)
 
 Funcionalidades adicionadas:
 
